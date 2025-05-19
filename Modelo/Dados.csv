@@ -1,0 +1,16 @@
+Frase,Comando
+"""Que dia é hoje""",Get_date
+"""Qual a data de hoje""",Get_date
+"""Que dia é hoje""",Get_date
+"""Que horas são""",Get_hour
+"""hora exata""",Get_hour
+"""Me diga as horas""",Get_hour
+"""Pode me dizer as horas""",Get_hour
+"""Qual é a hora""",Get_hour
+"""Hoje Chove?""",Get_weather
+"""Hoje tem sol""",Get_weather
+"""Previsão do tempo""",Get_weather
+"""Qual o clima pra hoje""",Get_weather
+"""Como estar o clima""",Get_weather
+"""Qual a sensação térmica""",Get_weather
+"""Qual a previsão pra hoje""",Get_weather
